@@ -2,8 +2,8 @@ Hey 👋, I'm Abhishek Babu!
 
 ## Connect with me:
 [![LinkedIn](https://github.com/user-attachments/assets/32588070-1bf3-4f29-a478-0d867d339f63)](https://www.linkedin.com/in/avik03215/)
-![Twitter](https://github.com/user-attachments/assets/fa839657-455e-4895-85eb-298107184910)
-![image](https://github.com/user-attachments/assets/6abfc38c-f96e-4a15-8372-7188f593b843)
+[![Twitter](https://github.com/user-attachments/assets/fa839657-455e-4895-85eb-298107184910)](https://x.com/Avik03215Kumar)
+[![Instagram](https://github.com/user-attachments/assets/6abfc38c-f96e-4a15-8372-7188f593b843)](https://www.instagram.com/abhishekkumar1359/)
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Web Developer 📱, Devops Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
