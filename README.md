@@ -11,7 +11,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 ### More about Me:
-- 🔭   I’m currently working on **Music-App**                                       <img src="https://github.com/user-attachments/assets/e1564463-501b-488d-921e-6d45842d7dbd" alt="Profile Image" width="400" align="right" style=" margin-bottom: 30px;margin-right: 30px;"/>
+- 🔭   I’m currently working on **Smart Contact Manager-App**                                       <img src="https://github.com/user-attachments/assets/e1564463-501b-488d-921e-6d45842d7dbd" alt="Profile Image" width="400" align="right" style=" margin-bottom: 30px;margin-right: 30px;"/>
 - 🌱 I’m currently learning Typescript;                            
 - 👨🏻‍💻   Most of my projects are available on [Github]()
 - 📫 Feel free to ping me on [Mail]()
@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 🔨 **Languages and Tools**
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Java_Programming_Language_Logo.svg" width="40" height="40" alt="Java" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java" style="margin-right: 10px;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40" alt="JavaScript" style="margin-right: 10px;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python" style="margin-right: 10px;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40" alt="C++" style="margin-right: 10px;"/>
