@@ -1,7 +1,7 @@
 Hey 👋, I'm Abhishek Babu!
 
 ## Connect with me:
-![LinkedIn](https://github.com/user-attachments/assets/32588070-1bf3-4f29-a478-0d867d339f63)
+[![LinkedIn](https://github.com/user-attachments/assets/32588070-1bf3-4f29-a478-0d867d339f63)](https://www.linkedin.com/in/avik03215/)
 ![Twitter](https://github.com/user-attachments/assets/fa839657-455e-4895-85eb-298107184910)
 ![image](https://github.com/user-attachments/assets/6abfc38c-f96e-4a15-8372-7188f593b843)
 
